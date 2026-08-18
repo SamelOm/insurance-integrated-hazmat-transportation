@@ -2,7 +2,7 @@
 
 Path-based mixed-integer optimization for allocating hazardous-material shipments under operational cost, population risk, corridor concentration, regional equity, and insurance-related financial exposure.
 
-> **Release status:** private review version. The supplied thesis and implementation contain several material differences that should be resolved before this repository becomes public. See [Implementation audit](docs/implementation_audit.md).
+> **Release status:** research archive accompanying the thesis. Known implementation notes are documented in the [implementation audit](docs/implementation_audit.md).
 
 This repository accompanies the master's thesis:
 
