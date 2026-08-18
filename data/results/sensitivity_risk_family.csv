@@ -1,0 +1,5 @@
+experiment,param,value,status,objective,sys_risk,sys_risk_util,active_paths,max_corr_util
+risk_family,multiplier,1,2,70023567.82358222,1139.4348590812217,0.8778743232434814,160.0,0.9105736867239
+risk_family,multiplier,10,3,,,,,
+risk_family,multiplier,50,3,,,,,
+risk_family,multiplier,100,3,,,,,

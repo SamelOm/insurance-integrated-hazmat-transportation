@@ -1,0 +1,32 @@
+# Operating-system and editor files
+.DS_Store
+__MACOSX/
+.vscode/
+.idea/
+
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.venv/
+venv/
+
+# Solver and local runtime files
+gurobi.log
+*.lp
+*.mps
+*.sol
+*.ilp
+*.prm
+*.lic
+
+# Generated analysis outputs
+outputs/*
+!outputs/.gitkeep
+
+# Temporary files
+*.tmp
+*.bak
+~$*

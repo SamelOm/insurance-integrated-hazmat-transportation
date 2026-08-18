@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the repository and accompanying thesis."
+title: "Insurance-Integrated Hazardous Materials Transportation Optimization"
+type: software
+authors:
+  - family-names: "Samel"
+    given-names: "Om"
+version: 0.1.0
+date-released: 2026-08-18
+url: "https://github.com/SamelOm/insurance-integrated-hazmat-transportation"
